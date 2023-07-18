@@ -10,4 +10,8 @@ This section lists a concise overview of data analytics projects, briefly descri
 - **Code:** [`Github repository`](https://github.com/julionakama/SpaceX_Launch_Analysis/tree/main)
 - Presentation:** [`spacex_launch_analysis.pdf`](https://github.com/julionakama/SpaceX_Launch_Analysis/blob/main/Presentation_Winning_Space_Race_with_Data%20Science.pdf)
 
+### Tableau Vizzes
+
+- **Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/app/profile/julio.nakama)
+
 
