@@ -14,7 +14,7 @@ This was the Capstone project for the IBM Data Science Professional Certificate 
 
 ### Productivity labour dashboard
 
-- **Description:** Dashboard to monitor productivity labour levels in a retailer. It includes indicators such as 
+- **Description:** Dashboard to monitor productivity labour levels in a retailer. It includes indicators such as: 
   - Coverage and overstaffing levels
   - Deviation between planning and real shift schedule.
   - Overtime
