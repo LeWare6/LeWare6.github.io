@@ -8,7 +8,7 @@ This section lists a concise overview of data analytics projects, briefly descri
 This was the Capstone project for the IBM Data Science Professional Certificate course.  
 - **Skills:** Python coding, API interaction, web scrapping, data cleaning, data wrangling, SQL, data visualization, interactive map creation, dashboard creation, and predictive analysis with machine learning models.  
 - **Technology:** Python, BeautifulSoup, Pandas, Sqlite3, Numpy, Seaborn, Folium and Dash.  
-- **Code:** [`Github repository`](https://github.com/julionakama/SpaceX_Launch_Analysis/tree/main)  
+- **Code:** [go to Github repository..](https://github.com/julionakama/SpaceX_Launch_Analysis/tree/main)  
 - **Presentation:** [`spacex_launch_analysis.pdf`](https://github.com/julionakama/SpaceX_Launch_Analysis/blob/main/Presentation_Winning_Space_Race_with_Data%20Science.pdf)  
 
 
@@ -20,8 +20,8 @@ This was the Capstone project for the IBM Data Science Professional Certificate 
   - Overtime
   - Absences (scheduled and non-scheduled)
 - **Technology:** PowerBI  
-- **File:** [pbix file here](https://drive.google.com/drive/folders/1KOPBHKOdRYBSgvKOPrGJenDA8tXaTPm7?usp=share_link)
-- **Overview:** [image here](https://github.com/julionakama/julionakama.github.io/blob/main/PowerBI_dashboard_overview.png)
+- **PBIX File:** [go to Google Drive repository..](https://drive.google.com/drive/folders/1KOPBHKOdRYBSgvKOPrGJenDA8tXaTPm7?usp=share_link)
+- **Overview:** [`dashboard overview`](https://github.com/julionakama/julionakama.github.io/blob/main/PowerBI_dashboard_overview.png)
 
 
 ### Tableau Vizzes
