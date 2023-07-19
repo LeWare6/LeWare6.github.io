@@ -21,7 +21,7 @@ This was the Capstone project for the IBM Data Science Professional Certificate 
   - Absences (scheduled and non-scheduled)
 - **Technology:** PowerBI  
 - **PBIX File:** [go to Google Drive repository..](https://drive.google.com/drive/folders/1KOPBHKOdRYBSgvKOPrGJenDA8tXaTPm7?usp=share_link)
-- **Overview:** [`dashboard overview`](https://github.com/julionakama/julionakama.github.io/blob/main/PowerBI_dashboard_overview.png)
+- **Overview:** [`dashboard_overview.png`](https://github.com/julionakama/julionakama.github.io/blob/main/PowerBI_dashboard_overview.png)
 
 
 ### Tableau Vizzes
