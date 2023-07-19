@@ -20,8 +20,8 @@ This was the Capstone project for the IBM Data Science Professional Certificate 
   - Overtime
   - Absences (scheduled and non-scheduled)
 - **Technology:** PowerBI  
-- **File:** [`pbix file here`](https://drive.google.com/drive/folders/1KOPBHKOdRYBSgvKOPrGJenDA8tXaTPm7?usp=share_link)
-- **Overview:** [`image here`](https://github.com/julionakama/julionakama.github.io/blob/main/PowerBI_dashboard_overview.png)
+- **File:** [pbix file here](https://drive.google.com/drive/folders/1KOPBHKOdRYBSgvKOPrGJenDA8tXaTPm7?usp=share_link)
+- **Overview:** [image here](https://github.com/julionakama/julionakama.github.io/blob/main/PowerBI_dashboard_overview.png)
 
 
 ### Tableau Vizzes
