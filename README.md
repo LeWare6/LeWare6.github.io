@@ -2,11 +2,21 @@
 
 This section lists a concise overview of data analytics projects, briefly describing the technology employed used to address different scenarios.
 
+
+### Cyclistic bike-share analysis
+
+- **Description:** Data analysis of Cyclistic's bike-share program with the objective of identifying how annual members and casual riders use Cyclistic bikes differently in order to help the company in designing marketing strategies for converting casual riders into annual members. 
+This was the Capstone project for the Google Data Analytics Certificate course.
+- **Skills:** Python coding, exploratory data analysis, data cleaning, data wrangling, data aggregation, anomaly detection, and data visualization.
+- **Technology:** Python, Pandas, Numpy and Matplotlib.
+- **Code:** [`bike_share_rides.ipynb`](https://github.com/julionakama/julionakama.github.io/blob/main/bike_share_rides.ipynb)  
+
+
 ### SpaceX launch analysis
 
 - **Description:** Data collection and analysis of Space X's track record of success in landing its first stages, creating dashboards and predicting the first stages' reuse with machine learning models.  
 This was the Capstone project for the IBM Data Science Professional Certificate course.  
-- **Skills:** Python coding, API interaction, web scrapping, data cleaning, data wrangling, SQL, data visualization, interactive map creation, dashboard creation, and predictive analysis with machine learning models.  
+- **Skills:** Python coding, API interaction, web scrapping, exploratory data analysis, data cleaning, data wrangling, SQL, data visualization, interactive map creation, dashboard creation, and predictive analysis with machine learning models.  
 - **Technology:** Python, BeautifulSoup, Pandas, Sqlite3, Numpy, Seaborn, Folium and Dash.  
 - **Code:** [go to Github repository..](https://github.com/julionakama/SpaceX_Launch_Analysis/tree/main)  
 - **Presentation:** [`spacex_launch_analysis.pdf`](https://github.com/julionakama/SpaceX_Launch_Analysis/blob/main/Presentation_Winning_Space_Race_with_Data%20Science.pdf)  
