@@ -1,3 +1,10 @@
+## About
+
+Hi, I'm Julio! I have an MBA and a bachelor's degree in Information Systems Engineering. After working in Security Information and IT Auditing for 5 years, and co-founding 2 social entrepreneurships, I transitioned to Data Analysis, where I now have 3 years of experience.
+
+The main purpose of this repository is to demonstrate my skills and act as a platform for sharing my projects. Additionally, it serves as a means to monitor my progress in Data Analytics and Data Science-related topics.
+
+
 ## Portfolio Projects
 
 This section lists a concise overview of data analytics projects, briefly describing the technology employed used to address different scenarios.
