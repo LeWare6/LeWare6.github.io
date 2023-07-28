@@ -5,7 +5,7 @@ This section lists a concise overview of data analytics projects, briefly descri
 
 ### Cyclistic bike-share analysis
 
-- **Description:** Data analysis of Cyclistic's bike-share program with the objective of identifying how annual members and casual riders use Cyclistic bikes differently in order to help the company in designing marketing strategies for converting casual riders into annual members. 
+- **Description:** Data analysis of Cyclistic's bike-share program with the objective of identifying how annual members and casual riders use Cyclistic bikes differently in order to help the company in designing marketing strategies for converting casual riders into annual members.  
 This was the Capstone project for the Google Data Analytics Certificate course.
 - **Skills:** Python coding, exploratory data analysis, data cleaning, data wrangling, data aggregation, anomaly detection, and data visualization.
 - **Technology:** Python, Pandas, Numpy and Matplotlib.
